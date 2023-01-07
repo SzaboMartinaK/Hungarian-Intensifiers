@@ -1,0 +1,1 @@
+This lexicon contains Hungarian intensifiers. If you use this dictionary please refer to the following paper: Szabó Martina Katalin, Vincze Veronika, Guba Csenge, Dam Bernadett,Solymos Adrienn, Bagi Anita, Szendi István 2023. Fokozás szkizofréniában. MSZNY 2023.
